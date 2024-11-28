@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Teresa Charlo Millán",
+    "label": "Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)",
+    "image": "",
+    "email": "tcharlomillan@gmail.com",
+    "phone": "628847992",
+    "url": "https://www.linkedin.com/in/teresa-charlo-millan",
+    "summary": "Estudiante apasionada por el desarrollo de aplicaciones multiplataforma, con enfoque en soluciones innovadoras y habilidad para gestionar múltiples tareas bajo presión. Busco contribuir al mundo tecnológico mediante proyectos que integren habilidades técnicas y analíticas.",
+    "location": {
+      "address": "Sevilla",
+      "postalCode": "41012",
+      "city": "Sevilla",
+      "countryCode": "ES",
+      "region": "Andalucía"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "teresa-charlo-millan",
+        "url": "https://www.linkedin.com/in/teresa-charlo-millan"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NTT DATA",
+      "position": "Estudiante en prácticas",
+      "url": "",
+      "startDate": "2024-11",
+      "endDate": null,
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "CAMPUZANO CATERING SL",
+      "position": "Catering",
+      "startDate": "2024-05",
+      "endDate": null,
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Eviden",
+      "position": "Estudiante en prácticas",
+      "startDate": "2024-04",
+      "endDate": "2024-10",
+      "summary": "Formación en SpringCore, Rest, JPA y Angular.",
+      "highlights": []
+    },
+    {
+      "name": "Alda y Terry Catering SL",
+      "position": "Catering",
+      "startDate": "2023-09",
+      "endDate": "2024-02",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Workout Events",
+      "position": "Azafata",
+      "startDate": "2018-01",
+      "endDate": "2020-03",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Profesional independiente",
+      "position": "Profesora de clases particulares",
+      "startDate": "2012-01",
+      "endDate": "2016-05",
+      "summary": "Clases a niñas de primaria.",
+      "highlights": []
+    },
+    {
+      "name": "Chromagen - Solar Water Solutions",
+      "position": "Insight weeks",
+      "startDate": "2015-03",
+      "endDate": "2015-03",
+      "summary": "Aprendizaje sobre el desarrollo de productos adaptados al mercado y dinámica interna.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Santa Joaquina de Vedruna",
+      "url": "",
+      "area": "Desarrollo de Aplicaciones Multiplataforma (DAM)",
+      "studyType": "Formación Profesional de Grado Superior",
+      "startDate": "2023-09",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "ESIC Business & Marketing School",
+      "url": "",
+      "area": "Talent Lab Sevilla",
+      "studyType": "Certificado",
+      "startDate": "",
+      "endDate": "2023",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Wellesley House School",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2009",
+      "endDate": "2012",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "B2 First Certificate in English",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Course Completion Certificate: Matlab",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    },
+    {
+      "name": "Data & Cybersecurity Campus BBVA",
+      "date": "",
+      "issuer": "",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Unity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WPF",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo o Bilingüe"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Competencia profesional"
+    }
+  ],
+  "interests": [],
+  "projects": []
+}
