@@ -2,13 +2,13 @@
   "basics": {
     "name": "Teresa Charlo Millán",
     "label": "Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)",
-    "image": "",
+    "image": "https://media.licdn.com/dms/image/v2/D4D03AQH94h1ez8GEbg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701773876030?e=1738195200&v=beta&t=yA8mwF-y-0nrbI4i8pDffkJj7YBxg1b0Nt7pM46U7Iw",
     "email": "tcharlomillan@gmail.com",
-    "phone": "628847992",
+    "phone": "+34 628847992",
     "url": "https://www.linkedin.com/in/teresa-charlo-millan",
-    "summary": "Estudiante apasionada por el desarrollo de aplicaciones multiplataforma, con enfoque en soluciones innovadoras y habilidad para gestionar múltiples tareas bajo presión. Busco contribuir al mundo tecnológico mediante proyectos que integren habilidades técnicas y analíticas.",
+    "summary": "Estudiante apasionada por el desarrollo de aplicaciones multiplataforma, con enfoque en soluciones innovadoras y habilidad para gestionar múltiples tareas bajo presión.",
     "location": {
-      "address": "Sevilla",
+      "address": "",
       "postalCode": "41012",
       "city": "Sevilla",
       "countryCode": "ES",
@@ -35,6 +35,7 @@
     {
       "name": "CAMPUZANO CATERING SL",
       "position": "Catering",
+      "url": "",
       "startDate": "2024-05",
       "endDate": null,
       "summary": "",
@@ -43,6 +44,7 @@
     {
       "name": "Eviden",
       "position": "Estudiante en prácticas",
+      "url": "",
       "startDate": "2024-04",
       "endDate": "2024-10",
       "summary": "Formación en SpringCore, Rest, JPA y Angular.",
@@ -51,6 +53,7 @@
     {
       "name": "Alda y Terry Catering SL",
       "position": "Catering",
+      "url": "",
       "startDate": "2023-09",
       "endDate": "2024-02",
       "summary": "",
@@ -59,6 +62,7 @@
     {
       "name": "Workout Events",
       "position": "Azafata",
+      "url": "",
       "startDate": "2018-01",
       "endDate": "2020-03",
       "summary": "",
@@ -67,6 +71,7 @@
     {
       "name": "Profesional independiente",
       "position": "Profesora de clases particulares",
+      "url": "",
       "startDate": "2012-01",
       "endDate": "2016-05",
       "summary": "Clases a niñas de primaria.",
@@ -75,9 +80,30 @@
     {
       "name": "Chromagen - Solar Water Solutions",
       "position": "Insight weeks",
+      "url": "",
       "startDate": "2015-03",
       "endDate": "2015-03",
       "summary": "Aprendizaje sobre el desarrollo de productos adaptados al mercado y dinámica interna.",
+      "highlights": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "type": "",
+      "url": "",
+      "position": "",
+      "contact": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": []
     }
   ],
@@ -113,6 +139,14 @@
       "courses": []
     }
   ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
   "certificates": [
     {
       "name": "B2 First Certificate in English",
@@ -131,6 +165,15 @@
       "date": "",
       "issuer": "",
       "url": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
@@ -160,6 +203,20 @@
       "fluency": "Competencia profesional"
     }
   ],
-  "interests": [],
-  "projects": []
+  "interests": [
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "isActive": "",
+      "description": "",
+      "highlights": [],
+      "url": "",
+      "github":""
+    }
+  ]
 }
